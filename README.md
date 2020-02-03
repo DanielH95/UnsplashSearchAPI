@@ -1,3 +1,10 @@
+This app was deployed with Heroku connecting with Github repo
+Preview it Here: https://unsplash-search-api.herokuapp.com/
+
+**************************************
+**************************************
+**************************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
